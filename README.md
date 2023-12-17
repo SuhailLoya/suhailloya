@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Suhail 👋
+
+I am a Year 1 Computer Science student at the National University of Singapore. I am enthusiastic about exploring emerging technologies such as Artificial Intelligence and Internet of Things (IoT) and aspire to employ these technologies in creative ways to tackle real-world challenges.
 
 <!--
 **SuhailLoya/suhailloya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
